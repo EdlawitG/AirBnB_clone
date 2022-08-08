@@ -48,7 +48,7 @@ of the file `console.py` at the command line.
 This project is interpreted/tested on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/Anteneh2121/AirBnB_clone.git"`
+* Clone this repository: `git clone "https://github.com/EdlawitG/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
